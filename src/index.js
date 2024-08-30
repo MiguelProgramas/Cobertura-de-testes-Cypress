@@ -9,3 +9,7 @@ root.render(
   </React.StrictMode>
 );
 
+function umaAlteração() { // Alteração adicionada!
+  let alteração = '';
+  alteração += 'uma';
+}
